@@ -5,3 +5,8 @@ pydantic>=2.9.0
 pymongo==4.6.0
 requests==2.31.0
 email-validator==2.1.0
+numpy==1.26.4
+scipy==1.11.4
+soundfile==0.12.1
+audioread==3.0.1
+numba==0.58.1
